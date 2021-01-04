@@ -1,0 +1,1 @@
+insert into linkedissuessvn (projectname, issuecode, revisionnumber, commitdate, issuetype) values ('SPL', 'SPL-01', '2e7d220f1825a1dfa6a54ccfde9ffce63a3ac5d4', '2020-11-16 12:18:31 +0000', 'Bug');
